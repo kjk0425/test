@@ -1,2 +1,4 @@
 # test
-大家好我是鄂樱楠
+## README
+#### FXXKYOU
+[ASSIGNMENTS](/ASSIGNMENTS.md)
